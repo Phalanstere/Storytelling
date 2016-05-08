@@ -15,7 +15,9 @@
     "authoring"
   ],
   "dependencies": {
-  	"jquery": "^1.8.0"
+  	"jquery": "^1.8.0",
+  	"odt":  "^1.1.0",
+  	"textract": "^1.2.0"
    },
     "devDependencies": {
     "browserify": "^10.2.4",

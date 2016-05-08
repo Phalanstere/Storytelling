@@ -1,0 +1,30 @@
+{
+  "name": "Storyteller",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Phalanstere/Storytelling.git"
+  },
+  "keywords": [
+    "event",
+    "recording",
+    "playback"
+  ],
+  "dependencies": {
+   },
+    "devDependencies": {
+    "tape": "^2.2.4",
+  },
+
+  "author": "Phalanstere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phalanstere/Storytelling/issues"
+  },
+  "homepage": "https://github.com/Phalanstere/Storytelling"
+}
